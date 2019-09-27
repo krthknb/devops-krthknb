@@ -1,2 +1,1 @@
-# devops-krthknb
-Devops training
+# devops-sg-25092019
